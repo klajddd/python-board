@@ -4,3 +4,8 @@ __pycache__/
 .venv/
 venv/
 *.egg-info/
+restock_radar_dssp/data/*csv
+restock_radar_dssp/!data/.gitkeep
+restock_radar_dssp/__pycache__/
+restock_radar_dssp/.ipynb_checkpoints/
+restock_radar_dssp/.venv/
